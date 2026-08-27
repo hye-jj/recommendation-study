@@ -15,6 +15,7 @@
 팀 프로젝트에서 데이터 전처리 및 분석 수행 <br>
 군집분석을 활용한 고객 유형 분류 <br>
 추천시스템 및 추천 알고리즘 적용 과정 구현 및 결과 분석 <br>
+flask를 사용한 간단한 서비스 화면 구현 <br>
  <br>
 ③ 사용 기술 <br>
 Python · Pandas · Scikit-learn · Clustering · Recommendation Algorithm <br>
